@@ -1,5 +1,6 @@
 #CAFFE2
 
+This exemple simply start a docker container and launch a demo  
 ## Instruction for test  
 sudo docker run -it --runtime=nvidia --rm caffe2ai/caffe2 bash
 cd /caffe2/caffe2/python/examples
